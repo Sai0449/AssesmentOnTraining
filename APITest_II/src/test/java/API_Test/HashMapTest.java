@@ -20,8 +20,8 @@ package API_Test;
 		@BeforeClass
 		public void SetUp() {
 		
-		data.put("name", "syed");
-		data.put("job", "engineer");
+		data.put("name", "sai");
+		data.put("job", "tester");
 		
 		}
 		

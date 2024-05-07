@@ -21,18 +21,18 @@ public class UserTest {
 		UserPayload1=new User();
 		
 		//UserPayload.setId(599);
-		UserPayload.setFirst_name("Nagulu");
-		UserPayload.setLast_name("Syed");
-		UserPayload.setEmail("Syed@gmail.com");
-		UserPayload.setName("syed");
-		UserPayload.setJob("engineer");
+		UserPayload.setFirst_name("sai");
+		UserPayload.setLast_name("kumar");
+		UserPayload.setEmail("sai1212@gmail.com");
+		UserPayload.setName("saiKumar121");
+		UserPayload.setJob("tester");
 		
 		
-		UserPayload1.setFirst_name("Nagulu");
-		UserPayload1.setLast_name("Syed");
-		UserPayload1.setEmail("Syed@gmail.com");
-		UserPayload1.setName("syednagulu");
-		UserPayload1.setJob("engineer");
+		UserPayload1.setFirst_name("Sai");
+		UserPayload1.setLast_name("kumar");
+		UserPayload1.setEmail("sai121@gmail.com");
+		UserPayload1.setName("saikumar");
+		UserPayload1.setJob("tester");
 	}
 	
 	
